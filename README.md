@@ -1,4 +1,4 @@
-# skin-cancer-detection-cnn
+# Skin Cancer Detection
 Skin Cancer Detection with Convolutional Neural Networks
 
 ![report-1](https://github.com/trfatihcinar/skin-cancer-detection-cnn/blob/main/Sources/Images/report%20(1).png?raw=true)
